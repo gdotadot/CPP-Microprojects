@@ -6,3 +6,5 @@
  Rock Paper Scissors is exactly as it sounds, saving the users Win/Loss/Tie record in the game folder.
  
  Blackjack is a non-gambling simple game of the 21 or blackjack card game. A vector is populated with 52 card structs and popped off as they are dealt to the player and the house. The player can hit or stay. Cards are reshuffled when they get below a certain amount in the vector.
+
+ Hangman is a word guessing game, played one character at a time. The player has four chances to guess the correct letters, losing a chance for each wrong guess. The player cannot repeat a previously guessed letter.
